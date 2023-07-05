@@ -17,8 +17,8 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 🌐 You can see more about me in [My Website](https://jvphoenixportfolio.netlify.app/) and find-me on the links below:
-<br/><a href="https://www.linkedin.com/in/jvbo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-<br/><a href="https://discordapp.com/users/337024544617267210"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /></a>
-<br/><a href="mailto:jvitorcocal07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+<br/><a href="https://www.linkedin.com/in/jvbo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br/><a href="https://discordapp.com/users/337024544617267210" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<br/><a href="mailto:jvitorcocal07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 Feel free to contact-me!
